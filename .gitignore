@@ -1,0 +1,36 @@
+# PROJECT 1 : Charity ML
+# pycache
+/Project 1 - Charity ML/__pycache__/*
+
+# data
+/Project 1 - Charity ML/census.csv
+
+# archived version of the project
+/Project 1 - Charity ML/Charity ML - Hénin.zip
+
+
+# Project 2 : Avarto
+# archived version of the project
+/Project 2 - Avarto/Avarto Project - Hénin.zip
+
+
+# Project 4 : Stackoverflow survey analysis (2019)
+# data
+/Project 4 - Stackoverflow project/developer_survey_2019/
+
+# zip file
+/Project 4 - Stackoverflow project/developer_survey_2019.zip
+
+
+#Project 5 : Disaster Response Pipeline
+# zip file
+/Project 5 - Disaster Response Pipeline/disaster-response-pipeline-project.zip
+
+# jupyter notebook used to define the python programs using smaller dataset
+/Project 5 - Disaster Response Pipeline/ETL Pipeline Preparation.ipynb
+/Project 5 - Disaster Response Pipeline/ML Pipeline Preparation.ipynb
+
+
+# Project 7 : Sparkify
+# data
+/Project 7 - Spark project/mini_sparkify_event_data.json
