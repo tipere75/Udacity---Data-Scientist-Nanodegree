@@ -4,4 +4,4 @@ This repository contains the projects I realized while completing the Data Scien
 
 
 ## Projects list :
-1. Machine learning : [Finding Donors for Charity ML][https://github.com/tipere75/Udacity---Data-Scientist-Nanodegree/tree/master/Project%201%20-%20Charity%20ML]
+1. Machine learning : <a href="https://github.com/tipere75/Udacity---Data-Scientist-Nanodegree/tree/master/Project%201%20-%20Charity%20ML">Finding Donors for Charity ML</a>
